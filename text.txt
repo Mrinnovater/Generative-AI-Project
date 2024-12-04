@@ -1,0 +1,92 @@
+What is Neural Style Transfer?
+
+Blending style from one image into another
+
+
+
+
+
+How does NST work?
+A pre-trained CNN with added loss functions to transfer style
+
+
+
+
+
+What are CNNs?
+Deep learning model used primarily for image analysis and processing. They use convolutional layers to scan and filter input data
+Filters as detectives
+Layers
+Pooling
+Fully connected layers
+Learning
+
+
+
+
+
+
+
+
+
+
+What does NST need as input?
+A Content Image
+A Style Image
+Output is:
+An Generated NST Image
+
+
+
+
+
+
+
+
+
+
+
+Process:
+• Detecting Content
+• Capturing Style
+• Mixing Content and Style
+
+
+
+
+
+
+
+
+What networks does NST need?
+A pre-trained feature extractor
+A style network.
+
+
+
+
+
+
+
+
+Recap: High level overview of how it all works?
+
+Content and Style
+Content
+Style
+Neural Networks
+Comparison
+Creating a New Image
+Magic of Math
+Iterations
+The Result
+
+
+
+
+
+
+
+
+
+
